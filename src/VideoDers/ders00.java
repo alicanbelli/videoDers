@@ -3,6 +3,7 @@ package VideoDers;
 public class ders00 {
 
 	public static void main(String[] args) {
+		System.out.println("gitHub a da bu degisikligi yukledim");
 		
 		int a,b;
 		
